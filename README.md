@@ -1,3 +1,1 @@
-# Equi-visor
-#
-#
+#boiler-plate
